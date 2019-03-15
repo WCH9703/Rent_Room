@@ -67,7 +67,7 @@ li{
 
 #banner{
     height: 483px;
-    width: 1519px;
+    width: 100%;
 }
 #banner li{
     list-style: none;
